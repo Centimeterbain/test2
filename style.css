@@ -1,0 +1,18 @@
+body{
+	text-align: right;
+	font-family:Microsoft JhengHei;
+}
+.btn{
+	border: solid 1px black;
+	width: 100px;
+	height:100px;
+	display:inline;
+	font-size:30px;
+	color:red;
+	background-color:#d3d3d3;
+	
+}
+h1{
+	font-size:90px;
+	font-family:標楷體;
+}
